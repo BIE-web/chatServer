@@ -1,0 +1,3 @@
+/home/lx/Desktop/chatServer/muduo_server/bulid/CMakeFiles/server.dir
+/home/lx/Desktop/chatServer/muduo_server/bulid/CMakeFiles/edit_cache.dir
+/home/lx/Desktop/chatServer/muduo_server/bulid/CMakeFiles/rebuild_cache.dir
